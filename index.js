@@ -259,3 +259,4 @@ if (message.content.startsWith("add premium")) {
 
 
 client.login('si aici pui token')
+
